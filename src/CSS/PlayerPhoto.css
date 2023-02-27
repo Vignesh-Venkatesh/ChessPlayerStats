@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+
+:root{
+    --main-bg-color: #312e2b;
+    --tile-bg-color: #272522;
+    --tile-shadow-color: rgba(29, 28, 26, 0.7);
+    --main-font: "Tilt Warp";
+    --text-color: #c3c3c1;
+    --rapid-color: rgb(53, 116, 53);
+    --blitz-color: rgb(255,200,0);
+    --bullet-color: rgb(170, 107, 65);
+    --button-color: #916d48;
+}
+
+* {
+    font-family: var(--main-font);
+}
+
+.photo-tile{
+    background-color: var(--button-color); 
+    box-shadow: 5px 7px 0px var(--tile-shadow-color);
+    width: 110px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    border-radius: 10px;
+    transition: all 0.3s;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.photo-tile:hover{
+    box-shadow: 1px 2px 0px var(--tile-shadow-color);
+    transform: translateX(2px) translateY(3px);
+}
+
+img{
+    border-radius: 7px;
+    width: 90px;
+    box-shadow: 0px 2px 10px var(--tile-shadow-color);
+}
