@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ChessPlayerStats/static/css/main.0728bf5e.css",
-    "main.js": "/ChessPlayerStats/static/js/main.6238d2c1.js",
+    "main.css": "/ChessPlayerStats/static/css/main.1d2048c7.css",
+    "main.js": "/ChessPlayerStats/static/js/main.0f641350.js",
     "static/js/787.c77b30d3.chunk.js": "/ChessPlayerStats/static/js/787.c77b30d3.chunk.js",
     "static/media/do.svg": "/ChessPlayerStats/static/media/do.d2287a1e1eee0805fc27.svg",
     "static/media/rs.svg": "/ChessPlayerStats/static/media/rs.dc155455e86e12200cb5.svg",
@@ -270,12 +270,12 @@
     "static/media/de.svg": "/ChessPlayerStats/static/media/de.6435bf24d148ca7248e7.svg",
     "static/media/bd.svg": "/ChessPlayerStats/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "static/media/id.svg": "/ChessPlayerStats/static/media/id.f624e2c8444a7794b357.svg",
-    "main.0728bf5e.css.map": "/ChessPlayerStats/static/css/main.0728bf5e.css.map",
-    "main.6238d2c1.js.map": "/ChessPlayerStats/static/js/main.6238d2c1.js.map",
+    "main.1d2048c7.css.map": "/ChessPlayerStats/static/css/main.1d2048c7.css.map",
+    "main.0f641350.js.map": "/ChessPlayerStats/static/js/main.0f641350.js.map",
     "787.c77b30d3.chunk.js.map": "/ChessPlayerStats/static/js/787.c77b30d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0728bf5e.css",
-    "static/js/main.6238d2c1.js"
+    "static/css/main.1d2048c7.css",
+    "static/js/main.0f641350.js"
   ]
 }
