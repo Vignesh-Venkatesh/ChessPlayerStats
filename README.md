@@ -17,4 +17,4 @@ To track [chess.com](https://chess.com) player stats
 
 Check out my [**Github**](https://github.com/Vignesh-Venkatesh)!
 
-Check out my [**Portfolio**](https://vignesh-venkatesh.github.io/PortfolioWebsite)!
+Check out my [**Portfolio**](https://vignesh-venkatesh.github.io/)!
